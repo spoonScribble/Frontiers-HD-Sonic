@@ -1,1 +1,7 @@
+add /longquill_default/raw/character/sonic.pac
+add /longquill_impact/raw/character/sonic.pac
+add /shortquill_default/raw/character/sonic.pac
+add /shortquill_impact/raw/character/sonic.pac
+add /main/raw/character/supersonic.pac
+add /main/raw/misc/trr_common_texture.pac
 add mod.ini
