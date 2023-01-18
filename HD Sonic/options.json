@@ -1,0 +1,62 @@
+{
+   "Groups": [
+      {
+         "Name": "main",
+         "DisplayName": "Customization",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Model & Animations",
+               "Description": [
+                  "Select your preferred quill length and animation set.",
+               ],
+               "Type": "ModelTypesNum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "Long Quill + Impact Animations"
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ModelTypesNum": 
+	  [
+
+         {
+            "DisplayName": "Long Quill + Default Animations",
+            "Value": "longquill_default",
+            "Description": [
+               "Quills are Unleashed/Gens length. Default, vanilla animations.",
+            ]
+         },
+
+         {
+            "DisplayName": "Long Quill + Impact Animations",
+            "Value": "longquill_impact",
+            "Description": [
+               "Quills are Unleashed/Gens length. ChaosX's Impact Sonic animations.",
+            ]
+         },
+		 
+         {
+            "DisplayName": "Short Quill + Default Animations",
+            "Value": "shortquill_default",
+            "Description": [
+               "Quills are default, vanilla length. Default, vanilla animations.",
+            ]
+         },
+
+         {
+            "DisplayName": "Short Quill + Impact Animations",
+            "Value": "shortquill_impact",
+            "Description": [
+               "Quills are default, vanilla length. ChaosX's Impact Sonic animations.",
+            ]
+         },		 
+      ],
+	},  
+   "IniFile": "mod.ini"
+}
