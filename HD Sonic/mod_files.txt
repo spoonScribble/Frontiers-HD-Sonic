@@ -10,10 +10,10 @@ add main/raw/character/supersonic.pac
 
 add shortquill_default/raw/character/sonic.pac
 add shortquill_default/raw/character/soniccyber.pac
-remove shortquill_default/raw/dlc/dlccrm/dlccrm.pac
+delete shortquill_default/raw/dlc/dlccrm/dlccrm.pac
 
 add shortquill_impact/raw/character/sonic.pac
 add shortquill_impact/raw/character/soniccyber.pac
-remove shortquill_impact/raw/dlc/dlccrm/dlccrm.pac
+delete shortquill_impact/raw/dlc/dlccrm/dlccrm.pac
 
 add mod.ini
