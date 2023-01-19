@@ -1,3 +1,9 @@
+## HD Sonic V1.2.5
+- Fixed a crucial visual bug where Sonic's eye parallax wasn't functioning.
+- This bugfix has had a very minor and unfortunate side effect. While using long quills and SOAP shoes, Sonic's phantom rush afterimage will be bugged.
+
+Holy HELL, this took way longer than I expected. An hour or two turned into an entire night (again). Really going to take a break now. Please enjoy the mod :]
+
 ## HD Sonic V1.2
 - COMPLETELY rebaked all ambient occlusion. No longer harsh, dark, or in the wrong places.
 - General texture updates and fixes
